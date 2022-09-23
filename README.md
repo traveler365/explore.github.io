@@ -1,3 +1,4 @@
 # traveler365.github.io
 Official homepage\
-luzhengdong@foxmail.com
+luzhengdong@foxmail.com\
+![图片](swiss_scenery.png "swiss scenery")
