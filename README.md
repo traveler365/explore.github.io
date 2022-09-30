@@ -1,6 +1,8 @@
 # traveler365.github.io
 Official homepage\
 <luzhengdong@foxmail.com>\
-[Markdown slide](slide.html)\
-[audio](https://traveler365.github.io/Come-On.mp3 "audio")\
+[Markdown slide](slide.html)<br>
+<audio id="audio" controls="autoplay" preload="none">
+      <source id="mp3" src="./Come-On.mp3">
+</audio><br>
 ![图片](swiss_scenery.jpeg "swiss scenery")  
