@@ -2,4 +2,5 @@
 Official homepage\
 <luzhengdong@foxmail.com>\
 [Markdown slide](slide.html)\
+<audio src="Come-On.mp3"></audio>\
 ![图片](swiss_scenery.jpeg "swiss scenery")  
