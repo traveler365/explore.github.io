@@ -2,5 +2,5 @@
 Official homepage\
 <luzhengdong@foxmail.com>\
 [Markdown slide](slide.html)\
-[audio](./Come-On.mp3 "audio")\
+[audio](https://traveler365.github.io/Come-On.mp3 "audio")\
 ![图片](swiss_scenery.jpeg "swiss scenery")  
